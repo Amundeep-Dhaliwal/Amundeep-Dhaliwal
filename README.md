@@ -2,8 +2,6 @@
 
 [![HitCount](http://hits.dwyl.com/Amundeep-Dhaliwal/Amundeep_Dhaliwal.svg)](http://hits.dwyl.com/Amundeep-Dhaliwal/Amundeep_Dhaliwal)
 
-Here are some ideas to get you started:
-
 - 🌱 Learning everyday, currently topics in C++/Java
 - 🔭 I’m currently working on: Python/pygame
 - 👯 I enjoy backend development
