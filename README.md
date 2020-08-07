@@ -1,11 +1,11 @@
-### Hello there! welcome to my GitHub page 👋
+### Hello there! Welcome to my GitHub page 👋
 
 [![HitCount](http://hits.dwyl.com/Amundeep-Dhaliwal/Amundeep_Dhaliwal.svg)](http://hits.dwyl.com/Amundeep-Dhaliwal/Amundeep_Dhaliwal)
 
 - 🌱 Learning everyday, currently topics in C++/Java
-- 🔭 I’m currently working on: Python/pygame
+- 🔭 I’m currently working in: pygame/unreal
 - 👯 I enjoy backend development
-- 💬 Ask me about: Any of the repositories, constructive feedback is always welcome.
+- 💬 Ask me about any of my repositories, constructive feedback is always welcome.
 - 📫 Email: amunsd@gmail.com
 - 😄 Pronouns: Mr
 - 🤔 I’m always looking for new opportunites to learn and improve my skillset!
