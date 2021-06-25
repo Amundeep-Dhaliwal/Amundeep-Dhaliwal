@@ -9,7 +9,7 @@
 - 📫 Email: amunsd@gmail.com
 - 😄 Pronouns: Mr
 - 🤔 I’m always looking for new opportunites to learn and improve my skillset.
-- ⚡ Fun fact: I am a big halo fan and I enjoy learning on the Raspberry Pi.
+- ⚡ Fun fact: I enjoy tinkering with my raspberry pi.
 
 [My LinkedIn page](www.linkedin.com/in/a-dhaliwal)
 
