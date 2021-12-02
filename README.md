@@ -12,5 +12,3 @@
 - ⚡ Fun fact: I enjoy tinkering with my raspberry pi.
 
 [My LinkedIn page](www.linkedin.com/in/a-dhaliwal)
-
-[Twitter](https://twitter.com/Amunzz)
